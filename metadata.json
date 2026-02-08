@@ -1,0 +1,5 @@
+{
+  "name": "Necxa V1.0",
+  "description": "A high-performance AI chat application powered by Cerebras models and Supabase for secure multi-turn conversations and real-time analytics.",
+  "requestFramePermissions": []
+}
